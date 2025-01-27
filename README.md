@@ -1,4 +1,4 @@
-# Decision-Making-Approach
+# Decision Making Approach
 
 
 # Analytic Hierarchy Process (AHP) Implementation in Python
