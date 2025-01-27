@@ -1,7 +1,5 @@
 # Decision-Making-Approach
-Below is an example of a `README.md` file for your GitHub repository that explains the AHP (Analytic Hierarchy Process) Python implementation. You can customize it further based on your needs.
 
----
 
 # Analytic Hierarchy Process (AHP) Implementation in Python
 
@@ -107,6 +105,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The AHP method was developed by Thomas L. Saaty.
 - This implementation uses the `numpy` library for matrix operations.
 
----
-
-Feel free to customize this `README.md` file to better suit your project. You can add badges, screenshots, or additional sections as needed.
